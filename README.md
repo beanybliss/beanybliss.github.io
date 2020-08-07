@@ -2,10 +2,15 @@
     <head>
         <meta charset="utf-8">
         <title>First Blog</title>
-    </head>
+        <style>
+            #title {
+            background-color:blue;
+            }
+        </style>
+   </head>
     <body>
         
-        <h1>Brian's blog</h1>
+        <h1 id="title">Brian's blog</h1>
 
         <h3>Contents</h3>
         <ul>
