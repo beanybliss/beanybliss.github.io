@@ -9,7 +9,7 @@
             h1 {
                 font-family: fantasy;
             }
-            #cloud-pic {
+            #pic {
                 float:left;
                 width: 100px;
             }
