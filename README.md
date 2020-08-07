@@ -24,7 +24,7 @@
     
         <h1 >What are clouds?</h1>
 
-        <br><img id="pic" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Ftransom.org%2Fwp-content%2Fuploads%2F2016%2F10%2Fletter-e-FEATURED-800x440.jpg&imgrefurl=https%3A%2F%2Ftransom.org%2F2016%2Fstory-structure-e%2F&tbnid=1T2OxAbAtljqYM&vet=12ahUKEwiEsK_Rn4nrAhUKGt8KHf_BC2sQMygCegUIARCNAQ..i&docid=MCgG3Pp_wGMN6M&w=800&h=440&q=e&ved=2ahUKEwiEsK_Rn4nrAhUKGt8KHf_BC2sQMygCegUIARCNAQ"></br>
+        <br><img id="pic" src="https://transom.org/2016/story-structure-e/"></br>
         
         
         <div id="cloud-sidebar">
