@@ -1,7 +1,7 @@
 <html>
     <head>
         <meta charset="utf-8">
-        <title>Challenge: Floating clouds</title>
+        <title>Clouds</title>
         <style>
             body {
                 font-family: sans-serif;
@@ -24,7 +24,7 @@
     
         <h1>What are clouds?</h1>
 
-        <img id="cloud-pic" src="https://www.kasandbox.org/programming-images/landscapes/clouds-from-plane.png">
+        <br><img id="cloud-pic" src="https://www.kasandbox.org/programming-images/landscapes/clouds-from-plane.png"></br>
         
         
         <div id="cloud-sidebar">
